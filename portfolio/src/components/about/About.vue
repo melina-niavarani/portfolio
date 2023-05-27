@@ -29,11 +29,10 @@
             </p>
             <p>
               Here are few technologies I've been working with recently: <!-- --> 
-              <ul class="grid grid-cols-[200px_minmax(900px,_1fr)_100px] mt-4 overflow-hidden ">
-                <li class="before:content-['▹']  before:leading-3 before:text-xs before:text-teal-300 before:me-2 before:align-[2px]">JavaScript</li>
-                <li class="before:content-['▹']  before:leading-3 before:text-xs before:text-teal-300 before:me-2 before:align-[2px]">TypeScript</li>
+              <ul class="grid grid-cols-2 mt-4 overflow-hidden ">
                 <li class="before:content-['▹']  before:leading-3 before:text-xs before:text-teal-300 before:me-2 before:align-[2px]">Vue</li>
                 <li class="before:content-['▹']  before:leading-3 before:text-xs before:text-teal-300 before:me-2 before:align-[2px]">Node.js</li>
+                <li class="before:content-['▹']  before:leading-3 before:text-xs before:text-teal-300 before:me-2 before:align-[2px]">JavaScript</li>
                 <li class="before:content-['▹']  before:leading-3 before:text-xs before:text-teal-300 before:me-2 before:align-[2px]">WordPress</li>
               </ul>
             </p>
