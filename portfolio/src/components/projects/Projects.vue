@@ -122,7 +122,7 @@
             </li>
         </ul>
         <div class="mt-12">
-            <a class="inline-flex items-center font-medium leading-tight text-slate-200 font-semibold text-slate-200 group" aria-label="View Full Project Archive" href="/archive">
+            <router-link class="inline-flex items-center font-medium leading-tight text-slate-200 font-semibold text-slate-200 group" aria-label="View Full Project Archive" to="/archive" title="projects">
                 <span>
                     <span class="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">View Full Project <!-- --> </span>
                     <span class="whitespace-nowrap">
@@ -132,7 +132,7 @@
                     </svg>
                     </span>
                 </span>
-            </a>
+            </router-link>
         </div>
         </div>
     </section>    
