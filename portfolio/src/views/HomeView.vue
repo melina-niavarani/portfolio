@@ -17,6 +17,7 @@
           <!-- *****ABOUT***** -->
           <about/>
           <!-- *****EXPERIENCE***** -->
+          <experience/>
           <!-- *****PROJECT*****-->
           <projects/>
           <!-- *****FOOTER***** -->
