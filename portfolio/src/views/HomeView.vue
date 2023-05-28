@@ -28,7 +28,7 @@
   </div>
 </template>
 <script>
-import introduction from '@/components/header/Introduction.vue'
+  import introduction from '@/components/header/Introduction.vue'
   import socialMediaList from '@/components/header/SocialMedia.vue'
   import navList from '@/components/header/NavList.vue'
   import about from '@/components/about/About.vue'
